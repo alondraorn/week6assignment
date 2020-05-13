@@ -1,13 +1,13 @@
 # DH150 Assignment 6: Low Fidelity Prototype
 
-### _by Alondra Orn // Digital Humanities 150 at UCLA, Spring 2020 // Dr. Sookie Cho // 5.13.2020
+### by Alondra Orn // Digital Humanities 150 at UCLA, Spring 2020 // Dr. Sookie Cho // 5.13.2020
 
 
 ## Overview
 
 **About:** I decided to change my project subject to "Blu-Collar" because it is my own personal passion project and I thought it would be very useful to apply my design knowledge from this class into a real world application. From this class, I thought it would be very useful to create the UI/UX deisgn for this comapny. I've been working for Bluecollar since the beginning of Witner quarter. It is a startup founded by college students and I joined because I know how academically, and financially challenging college can get, so I thought this app would be a great idea. It offers cleaning, delivery and laundry services for students who are too busy to do it themselves. 
-Check out the website [here].
-(http://www.blu-collar.com). 
+
+Check out the website [here](http://www.blu-collar.com/).
 
 **Purpose:** The purpose of creating and testing this low-fidelity prototype is see whether the wireframe I have created is effcient, intutive and accessible to users. 
 
@@ -23,26 +23,35 @@ Check out the website [here].
 
 ## Wireframes & Wireflows
 
-5 basic wireframes from this prototype are available to download in PDF form [here](https://drive.google.com/file/d/1dgxJxHLlqSpeau1Mgt2NmtKaLJ491fEM/view?usp=sharing).
+5 basic wireframes from this prototype are available to download in PDF form [here](http://www.blu-collar.com/).
 
 All wireframes and wireflows can be found [here](https://docs.google.com/presentation/d/1BiwPBoQVrLznBH7h3skdUHdgDHVBF0VkMs-a9-DKQRk/edit?usp=sharing).
 
 ### Notes on Wireflow Test
 
 **Task 1: Order food from dining halls with special instructions to leave at a specific location**
->I noticed that the user was a bit confused in the beginning when asked (what I thought to be) the most simple task, to choose a parking area based on the price/particular amount of time provided. That led me to believe that maybe it is counterintuitive to provide the user with as much information as possible since that might make it more difficult to quickly make a decision. As seen in the second screen of this task, a more personalized experience might make the experience of the user more efficient. 
+>With this task, I asked the user to specifically order chicken tenders from De Neve Dining Hall at UCLA at 10:00pm and to make a special request to drop it off at Rieber's front desk. 
+
+I noticed right away a mistake I made when making the wireframe. I didn't specifiy that dining hall food is only available to UCLA students and on UCLA campus. Right away my user was confused about this request because it seemed so specific. However, the user had an easy time accesssing the app because she mentioned "I'm glad there's dropdowns as options because I wouldn't know what the right thing would be to type." In options where there wasn't a drop down option to choose from, she would make remarks like "I don't know if I'm spelling this right", "do I need to capitalize this word" or "do I specify how many I want". The user easily chose the time 10:00pm and was confused when it came to pickup location. She would say "does pickup location mean I have to be there when I pick it up?" and "does clicking on current mean that it welt directly get sent to my room?". After this, she clicked "done" and excited out of the order summary menu.
 
 **Task 2: Look up price and order summary **
->I noticed that the user chose to click on very specific words within the “notifications” like “Learn more…” and “here” when it would have been satisfactory to click on the "notification" as a whole. This indicatest to me that word choice, and further on, font and adjustments to it (i.e. bolding) will be important in guiding the user to make the correct decision. Otherwise, this task seemed to be quite self-explanatory and the user completed all components quite quickly.
+
+>In this task I asked the user to do the same task as number 1 but after finishing their order of chicken tenders, I asked them to read me how much it costs and look at past order summaries. 
+It was easy for the user to read me the cost of the chicken tenders. After she was done with her order, the screen immediately redirected her to the reciept of the order. She mentioned it was easy to know the price since it was one of the first few informations mentioned. This made me think that the order of wht information goes first is very important. However, the following task to look at her overall order summary was a bit difficult. I noticed that the user found the icons down below on the home page difficult to understand. She mentioned, "I'm not to sure where I would find past information, maybe it's under my account information?". After the user went to the account section she mentioned, "oh, this just tells me my address and contact information, nothing about my order history" and went to look at the homepage. After looking through all the tabs, she found that the information was afterall in the "about" section, she just hadn't read through all the information.
 
 **Task 3: Track proggress of order**
->There was some confusion moving between two “interfaces” — the fact that it started at Google Maps (a generally familiar interface for the user) was not made fully clear by me. It was interesting that the user clicked on P for ParkMobile in the design, rather than the price or time frame, which is a good insight for demonstrating that user is attracted to the logo when it is in a different application interface.
+>With the third task, I wasnted the user to be able to look at what time her order will be made so I made her order someone to do her laundry for her. After she completed the task and ordered 1 load of laundry to be completed at 11:00pm, she had questions like "I wonder if it will tell me what time the laundry will be done" or "how much in service fee do I have to pay." She exited out of the order window and clicked on the arrow icon to tell her her order updates. She read me the person who would be doing the service and their phone number with ease. She said she could read his location on the GPS map available. I noticed that she was not too confused about this task and thought that this must have been intuitive. However, she mentioned, "I wish there was an easier way to contact" or see updates if I added in a special order, there doesn't seem like a way to do that on here."
 
-The user successfully completed all components of all of the tasks in this low-fidelity prototype test. 
+The user successfully completed all components of all of the tasks in this low-fidelity prototype test to varying degrees of difficulty. 
 
 ## Summary
++1: Summary of the process, what went smoothly or differently from your expectation
 
-Creating the low-fidelity prototype is what it seems most people imagine UX/UI design to be, so it was very interesting to finally reach this phase in the design process. I think the fact that I was simply creating new features for an existing application rather than completely ideating my own application did make this different from what I initially expected at the start of this class. 
-I learned that preparing a low-fi prototype by hand is quite a repetitive process — while I was creating the wireframes, I was glad to be building off of the design of an existing application, but I also realized at a certain point that I may have been including too many details in the process. As such, I would definitely like to try my hand at digitizing this process in the future.
-Testing the prototype in a paper-and-pencil environment was also quite a unique experience. Conceptually, I understood what needed to happen, but I did not want to guide the user too much with additional arrows or images that were part of the wireflow but not the wireframe. I feel that the user did not pay too much attention to the “click” indications and arrows that I did have present in the wireframes, though, so that part of the testing process went properly. 
-Overall, I feel that creating digitized wireframes / wireflows would have allowed me to create and test more scenarios, screens, and steps more easily and may have provided a smoother experience for the test user. However, I feel that the testing that did occur was still beneficial for me because it highlighted the importance of small details for the user in deciding what to choose as their next step.
++1: What you would change or design differently based on the feedback you got from the prototype testing. 
+
+For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+
+
+Creating the wireframe for this project was very exciting since there is currently not a mobile app existing for BluCollar yet. It was alot of fun getting in the heads of the customer and seeing what I would want in the app from their perspecive. Interviewing my friend to look at the wireframe and wireflow was also a very interseting experience because you really get to see how efficient and easy the app is for a user, especially since when I look through it myself, I am seeing it through biased eyes because I designed it myself. Overall, telling her what tasks to do and hearing her specific though process about the interfaces and what she thought of each design step was very useful information and I can't wait to redesign and apply her criquites to the app. The interview went smoothly as she was able to complete all the task I asked her to. The only one that was difficult was task 2. I did not expect her to have questions about the services themselves and other features. Overall, her input made me realize there's alot more features I would need to add to this app. 
+
+For isntance, one feature based off of her feadback, is that I should specify that this is a service currently only exisiting for UCLA students. When I told her to order chicken tenders from De Neve, she immediately asked me what that was and where. Obviously a UCLA student would be aware of this. However, I feel like since this app is also capable of food delivery besides dining hall food from UCLA, it will serve people that aren't students here and thus I should make it obvious somewhere in the interface that it does specialzed delivery for UCLA students. The way I wwill resolve this, is that before they sign up or right when they enter the app, it'll show them a quick window pop-up explaining how to use the app. One of the first window pop ups will be a message that explains that app is specialzied for UCLA students. This is a new feature I need to add. Another feature that the user found difficult is finding her order summary. Right away, I realized that the icons down below were not as intuitive as I thought because she ended up looking through all of the tabs before returning to the right one and reading more carefully. I believe that she wasn't able to look for the order history within the about page right away because it wasn't clearly distinguished. To fix this. i feel like I should seperate the about page into different categories that have the buttons stating: account informaiton, billing information and order history. 
