@@ -22,10 +22,11 @@ Check out the website [here](http://www.blu-collar.com/).
 3. Track progress of order 
 
 ## Wireframes & Wireflows
+The wireframes from this prototype are available through Google Drive [here](https://drive.google.com/drive/folders/1lECeUQjET33zwAeVbETHZwwXV9VRYjmv?usp=sharing).
 
-5 basic wireframes from this prototype are available to download in PDF form [here](http://www.blu-collar.com/).
+My wireflows can be found [here](https://drive.google.com/file/d/1kRn8fmeuMQuLnFkJNFwMpPHS-GMgdbFO/view?usp=sharing).
 
-All wireframes and wireflows can be found [here](https://docs.google.com/presentation/d/1BiwPBoQVrLznBH7h3skdUHdgDHVBF0VkMs-a9-DKQRk/edit?usp=sharing).
+Participant's wireflows can be found [here](https://drive.google.com/drive/folders/1B-eoAWNHXMolVKfFEHjZ2RMhWyk5q684?usp=sharing).
 
 ### Notes on Wireflow Test
 
@@ -45,12 +46,6 @@ It was easy for the user to read me the cost of the chicken tenders. After she w
 The user successfully completed all components of all of the tasks in this low-fidelity prototype test to varying degrees of difficulty. 
 
 ## Summary
-+1: Summary of the process, what went smoothly or differently from your expectation
-
-+1: What you would change or design differently based on the feedback you got from the prototype testing. 
-
-For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
-
 
 Creating the wireframe for this project was very exciting since there is currently not a mobile app existing for BluCollar yet. It was alot of fun getting in the heads of the customer and seeing what I would want in the app from their perspecive. Interviewing my friend to look at the wireframe and wireflow was also a very interseting experience because you really get to see how efficient and easy the app is for a user, especially since when I look through it myself, I am seeing it through biased eyes because I designed it myself. Overall, telling her what tasks to do and hearing her specific though process about the interfaces and what she thought of each design step was very useful information and I can't wait to redesign and apply her criquites to the app. The interview went smoothly as she was able to complete all the task I asked her to. The only one that was difficult was task 2. I did not expect her to have questions about the services themselves and other features. Overall, her input made me realize there's alot more features I would need to add to this app. 
 
