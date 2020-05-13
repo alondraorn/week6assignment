@@ -24,7 +24,7 @@ Check out the website [here](http://www.blu-collar.com/).
 ## Wireframes & Wireflows
 The wireframes from this prototype are available through Google Drive [here](https://drive.google.com/drive/folders/1lECeUQjET33zwAeVbETHZwwXV9VRYjmv?usp=sharing).
 
-My wireflows can be found [here](https://drive.google.com/file/d/1kRn8fmeuMQuLnFkJNFwMpPHS-GMgdbFO/view?usp=sharing).
+My wireflows can be found [here](https://drive.google.com/drive/folders/1kAxHv1xvTQqHzqlbTbfuyE2z-dCADVzV?usp=sharing).
 
 Participant's wireflows can be found [here](https://drive.google.com/drive/folders/1B-eoAWNHXMolVKfFEHjZ2RMhWyk5q684?usp=sharing).
 
